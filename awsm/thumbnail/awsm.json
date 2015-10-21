@@ -15,6 +15,7 @@
           "gm"
         ],
         "includePaths": [
+          "node_modules/array-parallel",
           "node_modules/gm",
           "node_modules/aws-sdk"
         ]
