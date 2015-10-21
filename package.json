@@ -1,6 +1,6 @@
 {
   "name": "awsm-images",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Given image url, resize and save to s3",
   "author": "Ryan Pendergast <ryanp@doapps.com>",
   "license": "",
